@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Les1-Interface and Basic Drawing.svg"
+   inkscape:export-filename="F:\Documents\Inkspace\Les1-Interface and Basic Drawing.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="341"
+     inkscape:cy="517"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#00ffff;stroke-width:0.199038;stroke:#4d4d4d;stroke-opacity:1"
+       id="rect53"
+       width="38.692345"
+       height="65.694748"
+       x="-108.0774"
+       y="55.145329"
+       transform="matrix(0.20878004,-0.97796262,0.9999167,0.01290675,0,0)"
+       inkscape:transform-center-x="-26.73923"
+       inkscape:transform-center-y="17.748921" />
+    <rect
+       style="fill:#00ff00;stroke-width:0.264583;stroke:#000000;stroke-opacity:1"
+       id="rect157"
+       width="45.772915"
+       height="41.010418"
+       x="142.875"
+       y="68.262497" />
+  </g>
+</svg>

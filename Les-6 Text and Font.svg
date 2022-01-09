@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="Les-6 Text and Font.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.8694725"
+     inkscape:cx="411.16884"
+     inkscape:cy="322.6094"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3761px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'case';fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.472, 6.472;stroke-dashoffset:0.0809;paint-order:normal"
+       x="18.443184"
+       y="33.086735"
+       id="text1353"
+       transform="matrix(0.85998848,0.00870513,0.19712013,1.1648016,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1351"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.3761px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'case';fill:#ff0000;stroke:#000000;stroke-width:0.809;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:6.472, 6.472;stroke-dashoffset:0.0809;paint-order:normal"
+         x="18.443184"
+         y="33.086735"
+         dy="0 0.60860676 -0.60860676 0 0 0 0 1.5215164 -1.5215164"
+         dx="0 -4.5645485 4.5645485 0 0 0 0 -5.1731548 5.1731548">Hello world!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:12.4026px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';stroke-width:0.516774"
+       x="43.988785"
+       y="68.043755"
+       id="text8426"
+       transform="scale(0.78581447,1.272565)"><tspan
+         sodipodi:role="line"
+         id="tspan8424"
+         style="stroke-width:0.516774"
+         x="43.988785"
+         y="68.043755"
+         dy="1.8258197 0 0 -6.6946707 0 0 -1.8258197 10.042006"
+         dx="0 0 0 0 0 0 0 -24.039976">Ak<tspan
+   style="font-size:25.4px"
+   id="tspan15172"
+   dy="6.6946707">s</tspan>hat ingh</tspan></text>
+    <ellipse
+       style="opacity:0.981043;fill:#ff0000;stroke:#000000;stroke-width:0.809538;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.0809001;paint-order:normal"
+       id="path30070"
+       cx="-241.35927"
+       cy="-13.551984"
+       rx="40.320183"
+       ry="39.154919"
+       transform="matrix(-0.53912059,-0.84222858,0.81334952,-0.58177535,0,0)"
+       inkscape:transform-center-x="1.5215167"
+       inkscape:transform-center-y="0.94831044" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Italic';stroke-width:0.264583"
+       id="text31341"
+       inkscape:transform-center-x="-2.3854666"
+       inkscape:transform-center-y="-35.591318"><textPath
+         xlink:href="#path30070"
+         id="textPath34175"><tspan
+           id="tspan31339"
+           style="stroke-width:0.264583">THIS IS A CIRCLE! aklsdhfkjshdkfhskhfkashfkhsdfhksdhfhsdjkfhkjsdhfjkhsdkajfhkhfasjkdfhkshdf</tspan></textPath></text>
+  </g>
+</svg>
