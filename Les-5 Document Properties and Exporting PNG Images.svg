@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36in"
+   height="36in"
+   viewBox="0 0 914.40006 914.40003"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Les-5 Document Properties and Exporting PNG Images.svg"
+   inkscape:export-filename="F:\Documents\Inkspace\Yard Sale.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="in"
+     showgrid="false"
+     units="in"
+     inkscape:lockguides="false"
+     inkscape:zoom="0.10868406"
+     inkscape:cx="2212.8359"
+     inkscape:cy="1568.7673"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.981043;fill:#ffff00;stroke:#ffffff;stroke-width:6.03814"
+       id="rect3341"
+       width="1162.6177"
+       height="1048.1996"
+       x="-143.11208"
+       y="-62.776009" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:199.833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.99583"
+       x="145.10695"
+       y="193.79889"
+       id="text2373"
+       transform="scale(0.67273799,1.4864628)"><tspan
+         sodipodi:role="line"
+         id="tspan2371"
+         style="stroke-width:4.99583;fill:#000000"
+         x="145.10695"
+         y="193.79889">YARD SALE</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:0.981043;fill:#ff0000;stroke:#000000;stroke-width:18.8976"
+       id="path3197"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="1113.3187"
+       sodipodi:cy="2309.4463"
+       sodipodi:r1="1027.96"
+       sodipodi:r2="529.39452"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.3822577"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 1840.1962,3036.3237 -627.6564,-206.8642 -565.90513,395.9058 2.78308,-660.8613 -551.403093,-415.8661 629.376453,-201.5705 225.11925,-652.9252 386.19294,536.2839 690.5345,12.3361 -390.6961,533.0122 z"
+       transform="scale(0.26458335)"
+       inkscape:transform-center-x="13.147812"
+       inkscape:transform-center-y="-13.147807" />
+  </g>
+</svg>
